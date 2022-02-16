@@ -36,7 +36,7 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Kapish3/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Kapish3/DogeBot2/blob/master
 
 ## `SETTING`
 
@@ -46,7 +46,7 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/Kapish3/DogeBot.git
 🦄 cd DogeBot2
 🦄 npm start
 ```
